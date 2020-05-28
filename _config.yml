@@ -95,14 +95,13 @@ analytics:
 author:
   name             : "Jacob Scott"
   avatar           : "/images/me.png"
-  bio              : "Data Science Graduate Student \
-                     GIS Professional"
+  bio              : "Data Science Portfolio"
   location         : "Bloomington, Indiana"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "scotjaco@iu.edu"
+      url: "mailto:scotjaco@iu.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
