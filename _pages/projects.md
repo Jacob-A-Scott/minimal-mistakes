@@ -5,4 +5,5 @@ title: "Projects"
 author_profile: true
 header:
   image: "/images/highway.jpg"
+
 ---
