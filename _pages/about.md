@@ -1,5 +1,5 @@
 ---
-
+layout: "posts"
 title: "About me"
 permalink: /about/
 header:
