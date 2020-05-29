@@ -1,10 +1,10 @@
 ---
-layout: "posts"
-title: "About me"
+layout: posts
 permalink: /about/
+title: "About me"
+author_profile: true
 header:
   image: "/images/sample-gates.jpg"
-author_profile: true
 
 ---
 
