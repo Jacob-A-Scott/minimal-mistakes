@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Jacob Scott"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Data Science Portfolio"
 name                     : "Jacob Scott"
-description              : "Data Science Portfolio"
+description              : "Portfolio showcasing projects and writing related to data science and my experiences."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jacob Scott"
   avatar           : "/images/me.png"
-  bio              : "Data Science Portfolio"
+  bio              : "MSci Data Science Student and GIS Professional"
   location         : "Bloomington, Indiana"
   email            :
   links:
